@@ -16,13 +16,35 @@ E-civil est une application mobile développée pour la commune de Mont Rolland,
 
 ## Captures d'écran
 
-![Écran d'accueil](assets/images/home.jpg)
-*Écran d'accueil de l'application E-civil*
+![Connexion](assets/images/login.jpg)  
 
-![Demande de document](assets/images/demande.jpg)
-*Interface pour faire une demande de document officiel*
+*Écran de connexion*  
 
-![Suivi des demandes](assets/images/suivi.jpg)
-*Suivi des demandes en temps réel*
+![Inscription](assets/images/account.jpg)  
 
+*Écran d'inscription*  
+
+![Écran d'accueil](assets/images/home.jpg)  
+
+*Écran d'accueil de l'application E-civil*  
+
+![Demande de document](assets/images/demande.jpg)  
+
+*Interface pour faire une demande de document officiel*  
+
+![Suivi des demandes](assets/images/suivi.jpg)  
+
+*Suivi des demandes en temps réel*  
+
+![Historique](assets/images/history.jpg)  
+
+*Historique des demandes*  
+
+![Paramètres des notifications](assets/images/notification.jpg)  
+
+*Gestion des notifications*  
+
+![Réinitialisation du mot de passe](assets/images/reset-password.jpg)  
+
+*Écran de réinitialisation du mot de passe*  
 
